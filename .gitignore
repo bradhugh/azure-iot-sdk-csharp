@@ -201,6 +201,7 @@ Buildx86retail.dat
 */NuGet/*.nupkg
 */.vs/*
 */nuget.exe
+project.lock.json
 
 # .NET Micro Framework Emulator files and folders
 OnBoardFlash.dat
