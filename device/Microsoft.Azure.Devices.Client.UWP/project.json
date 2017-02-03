@@ -2,7 +2,7 @@
   "dependencies": {
     "Microsoft.Azure.Amqp": "2.0.3",
     "Microsoft.NETCore.UniversalWindowsPlatform": "5.0.0",
-    "Newtonsoft.Json": "6.0.8",
+    "Newtonsoft.Json": "9.0.1",
     "PCLCrypto": "2.0.147",
     "Validation": "2.2.8"
   },
